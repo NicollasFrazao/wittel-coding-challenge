@@ -4,7 +4,7 @@ A Laravel 10 application that manages customers (name, CPF, birth date, income) 
 
 ## Context
 
-Solution to the hiring challenge of Wittel (2025). The challenge statement is not included in this repository.
+Solution to the hiring challenge of Wittel (2025). The challenge statement is kept in [`challenge.pdf`](challenge.pdf) (in Portuguese), with the recruiters' e-mail addresses removed.
 
 ## What it does
 
